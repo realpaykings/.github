@@ -4,7 +4,7 @@ A comprehensive payment processing solutions platform built with Next.js and San
 
 ## Overview
 
-PayKings is a modern web platform that provides payment processing solutions tailored to various industries. The platform features industry-specific solutions, developer resources, and comprehensive documentation for integration.
+[PayKings](https://paykings.com) is a modern web platform that provides payment processing solutions tailored to various industries. The platform features industry-specific solutions, developer resources, and comprehensive documentation for integration.
 
 ## Tech Stack
 
